@@ -9,7 +9,7 @@
 
 Install required libraries:
 
-'''bash pip install -r requirements.txt'''
+```bash pip install -r requirements.txt```
 
 ---
 
@@ -19,7 +19,7 @@ Install required libraries:
 2. Navigate to the project directory
 3. Run the application:
 
-'''bash python app.py'''
+```bash python app.py```
 
 4. Enter a valid URL in the input field
 5. The QR code will be generated, saved in the output folder, and previewed in the application
