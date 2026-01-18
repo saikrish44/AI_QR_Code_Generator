@@ -26,4 +26,4 @@ python app.py
 
 ---
 
-![Application Preview] (screenshots/app.png)
+![Application Preview](screenshots/app.png)
